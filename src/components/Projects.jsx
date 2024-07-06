@@ -20,7 +20,7 @@ function Projects() {
                     src="{project.image}"
                     width={150}
                     height={150}
-                    alt="{project.title}"
+                    alt="{project.image}"
                     className="mb-6 rounded"
                     />
                 </motion.div>

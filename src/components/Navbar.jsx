@@ -17,7 +17,7 @@ const Navbar = () => {
         <a href="https://github.com/Souvikde07" target="_blank"><FaGithub /></a>
         <a href="https://x.com/dsouvik_07" target="_blank"><FaSquareXTwitter/></a>
         <a href="https://leetcode.com/u/Souvikd07/" target="_blank"><TbBrandLeetcode /></a>
-        <a download="/SOUVIK DE RESUME_Jan24.pdf">CV</a>
+        <a download="/SOUVIK DE RESUME_Jan24.pdf" className="cursor-pointer">CV</a>
     </div>
   </nav>
   );
