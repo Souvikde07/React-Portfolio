@@ -17,10 +17,10 @@ function Projects() {
                 transition={{duration: 1}}
                 className="w-full lg:w-1/4">
                 <img
-                    src="{project.image}"
+                    src={project.image}
                     width={150}
                     height={150}
-                    alt="{project.image}"
+                    alt={project.image}
                     className="mb-6 rounded"
                     />
                 </motion.div>
